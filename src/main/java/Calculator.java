@@ -1,10 +1,22 @@
 import java.util.Arrays;
-import java.util.Optional;
 
 public class Calculator {
 
-    public Optional<Integer> sumAllNumbers(final Integer... valuesParam){
-        return  Optional.of(Arrays.stream(valuesParam).reduce(0,(a,b) -> a + b));
-        }
+	/**
+     * TBD:
+     * - Add all Integers together
+     * - Note: do not change method signature
+     */
+    public Integer sumAllNumbers(final Integer... valuesParam){
+    	throw new RuntimeException("Write your code here");
+    }
+    
+	/**
+     * TBD:
+     * - Multiply all Integers together
+     * - Note: do not change method signature
+     */
+    public Integer multiplyAllNumbers(final Integer... valuesParam){
+        throw new RuntimeException("Write your code here");
+    }
 }
-
