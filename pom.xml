@@ -5,4 +5,12 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>1</name>
   <description>1</description>
+
+  <dependency>
+    <groupId>unibas</groupId>
+    <artifactId>utilita</artifactId>
+    <version>0.1</version>
+    <scope>system</scope>
+    <systemPath>/home/vincenzo/MEGA/Programmazione/myLib/java/utilita.jar</systemPath>
+</dependency>
 </project>
