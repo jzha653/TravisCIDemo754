@@ -1,2 +1,2 @@
-# TravisCIDemo754 [![Build Status](https://travis-ci.com/travis-ci/docs-travis-ci-com.svg?branch=master)](https://travis-ci.com/travis-ci/docs-travis-ci-com)
+# TravisCIDemo754 [![Build Status](https://travis-ci.com/jzha653/TravisCIDemo754.svg?branch=master)]
 Yea just a demo
