@@ -9,7 +9,7 @@ public class Calculator {
      */
     public Integer sumAllNumbers(final Integer... valuesParam){
        // throw new RuntimeException("Write your code here");
-       if(valuesParam.isEmpty()){
+       if(valuesParam.length == 0){
            return null;
        }
         Integer sum = 0;
